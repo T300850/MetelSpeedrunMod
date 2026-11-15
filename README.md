@@ -1,6 +1,6 @@
 # 🏁 Metel — Speedrun Mod
 
-### v1.11.0
+### v1.0
 
 **A speedrunning & practice toolkit for _Metel_**
 
