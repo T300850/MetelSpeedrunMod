@@ -7,7 +7,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Unity-black?logo=unity)](https://unity.com/)
 [![Loader](https://img.shields.io/badge/Loader-MelonLoader-orange)](https://github.com/LavaGang/MelonLoader/releases/tag/v0.7.3)
 ![Game](https://img.shields.io/badge/Metel-0.921-blue)
-![Version](https://img.shields.io/badge/Mod%20version-1.11.0-00a9e0)
+![Version](https://img.shields.io/badge/Mod%20version-1.0-00a9e0)
 ![Status](https://img.shields.io/badge/Status-Unofficial%20mod-lightgrey)
 
 **Made by:** `TL12 Mods` · **Creators:** `t300850` & `Lol_official1`
@@ -32,7 +32,7 @@ A modification for **Metel 0.921 PC**, created for **speedrunning and practice**
 | **Creators** | t300850, Lol_official1 |
 | **Game** | Metel 0.921 PC (Windows, Unity Mono) |
 | **Loader** | [MelonLoader 0.7.3](https://github.com/LavaGang/MelonLoader/releases/tag/v0.7.3) |
-| **Mod version** | 1.11.0 |
+| **Mod version** | 1.0 |
 
 ---
 
@@ -162,7 +162,7 @@ The output is `Source\bin\Release\net472\MetelTimerModes.dll`. Keep `Source\Asse
 
 ## 🧪 Testing & Support
 
-The DLL was compiled, but version 1.11 and the installer have **not been tested in the running game or on Windows**. If something goes wrong, provide `MelonLoader\Latest.log`, the chapter, mode or preset, and the steps that caused the issue.
+The DLL was compiled, but version 1.0 and the installer have **not been tested in the running game or on Windows**. If something goes wrong, provide `MelonLoader\Latest.log`, the chapter, mode or preset, and the steps that caused the issue.
 
 ---
 
@@ -177,7 +177,7 @@ The DLL was compiled, but version 1.11 and the installer have **not been tested 
 | **Создатели** | t300850, Lol_official1 |
 | **Игра** | Metel 0.921 PC (Windows, Unity Mono) |
 | **Загрузчик** | [MelonLoader 0.7.3](https://github.com/LavaGang/MelonLoader/releases/tag/v0.7.3) |
-| **Версия мода** | 1.11.0 |
+| **Версия мода** | 1.0 |
 
 ---
 
@@ -307,7 +307,7 @@ dotnet build -c Release
 
 ## 🧪 Проверка и поддержка
 
-DLL собрана, но версия 1.11 и установщик **не проверялись в запущенной игре и на Windows**. При проблеме приложите `MelonLoader\Latest.log`, укажите главу, режим или пресет и опишите действия, после которых появилась ошибка.
+DLL собрана, но версия 1.0 и установщик **не проверялись в запущенной игре и на Windows**. При проблеме приложите `MelonLoader\Latest.log`, укажите главу, режим или пресет и опишите действия, после которых появилась ошибка.
 
 ---
 
